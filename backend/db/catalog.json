@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "product_name": "Dark blue jacket",
+    "price": 55.00,
+    "image": "catalog/1.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 2,
+    "product_name": "Black jacket",
+    "price": 73.00,
+    "image": "catalog/2.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 3,
+    "product_name": "Blue jacket",
+    "price": 88.00,
+    "image": "catalog/3.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 4,
+    "product_name": "Mango  People grey T-shirt",
+    "price": 60.30,
+    "image": "catalog/4.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 5,
+    "product_name": "Mango  People  T-shirt",
+    "price": 67.00,
+    "image": "catalog/5.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 6,
+    "product_name": "Mango  People  T-shirt",
+    "price": 11.00,
+    "image": "catalog/6.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 7,
+    "product_name": "Mango  People  T-shirt",
+    "price": 87.00,
+    "image": "catalog/7.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 8,
+    "product_name": "Mango  People  T-shirt",
+    "price": 67.00,
+    "image": "catalog/8.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 9,
+    "product_name": "Mango  People  T-shirt",
+    "price": 45.00,
+    "image": "catalog/9.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 10,
+    "product_name": "Mango  People  T-shirt",
+    "price": 60.00,
+    "image": "catalog/10.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 11,
+    "product_name": "Mango  People  T-shirt",
+    "price": 54.50,
+    "image": "catalog/11.jpg",
+    "gender": "W",
+    "type": "t-shirt"
+  },
+  {
+    "id": 12,
+    "product_name": "Mango  People  T-shirt",
+    "price": 58.00,
+    "image": "catalog/12.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 13,
+    "product_name": "Mango  People  T-shirt",
+    "price": 76.33,
+    "image": "catalog/13.jpg",
+    "gender": "W",
+    "type": "t-shirt"
+  },
+  {
+    "id": 14,
+    "product_name": "Mango  People  T-shirt",
+    "price": 87.80,
+    "image": "catalog/14.jpg",
+    "gender": "W",
+    "type": "t-shirt"
+  },
+  {
+    "id": 15,
+    "product_name": "Mango  People  T-shirt",
+    "price": 44.00,
+    "image": "catalog/15.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 16,
+    "product_name": "Mango  People  Pants",
+    "price": 99.99,
+    "image": "catalog/16.jpg",
+    "gender": "M",
+    "type": "pants"
+  },
+  {
+    "id": 17,
+    "product_name": "Mango  People  T-shirt",
+    "price": 72.00,
+    "image": "catalog/17.jpg",
+    "gender": "M",
+    "type": "t-shirt"
+  },
+  {
+    "id": 18,
+    "product_name": "Mango  People  T-shirt",
+    "price": 77.00,
+    "image": "catalog/18.jpg",
+    "gender": "W",
+    "type": "t-shirt"
+  },
+  {
+    "id": 19,
+    "product_name": "Dress",
+    "price": 69.00,
+    "image": "catalog/19.jpg",
+    "gender": "W",
+    "type": "t-shirt"
+  },
+  {
+    "id": 20,
+    "product_name": "Mango People yellow T-shirt",
+    "price": 43.00,
+    "image": "catalog/20.jpg",
+    "gender": "W",
+    "type": "t-shirt"
+  },
+  {
+    "id": 21,
+    "product_name": "Pants",
+    "price": 34.00,
+    "image": "catalog/21.jpg",
+    "gender": "W",
+    "type": "t-shirt"
+  }
+]

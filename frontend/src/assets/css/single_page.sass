@@ -1,0 +1,142 @@
+@import "variables.css"
+
+.item-container
+    position: relative
+    height: 1410px
+    display: flex
+    justify-content: center
+
+.catalog-item-container
+    width: 100vw
+    height: 777px
+    border: 1px solid #eaeaea
+    background-color: #f7f7f7
+    display: flex
+    justify-content: center
+    flex-direction: column
+    &__img
+        margin: 11px auto 42px
+
+.buy-container
+    width: 1141px
+    height: 730px
+    border: 1px solid #eaeaea
+    background-color: $color_white
+    display: flex
+    flex-direction: column
+    align-items: center
+    bottom: -86px
+    position: absolute
+    top: 700px
+    &-characteristics
+        width: 334px
+        display: flex
+        justify-content: space-between
+        &__text
+            margin: 28px 0 0 0
+            color: #b9b9b9
+            font-size: 14px
+            font-weight: 700
+            line-height: 24px
+            text-transform: uppercase
+            &_black
+                color: #2f2f2f
+    &__text
+        margin: 73px auto 0
+        &_collection
+            color: $color_pink
+            font-size: 14px
+            font-weight: 700
+            text-transform: uppercase
+            padding-bottom: 14px
+            border-bottom: 1px solid #eaeaea
+    &__text-2
+        margin: 17px auto 0
+        &_name
+            color: #4d4d4d
+            font-size: 18px
+            font-weight: 800
+            text-transform: uppercase
+    &__text-3
+        margin: 67px auto 0
+        &_description
+            color: #5e5e5e
+            font-size: 14px
+            font-weight: 300
+            text-align: center
+    &__text-4
+        margin: 37px 0 0
+        &_price
+            color: $color_red
+            font-size: 24px
+            font-weight: 700
+            border-bottom: 1px solid #eaeaea
+            width: 642px
+            text-align: center
+            padding-bottom: 43px
+    &__button
+        width: 537px
+        border: 1px solid $color_red
+        background-color: $color_white
+        color: $color_red
+        font-size: 16px
+        font-weight: 700
+        text-align: center
+        line-height: 55px
+        &_addtocard
+            margin: 28px auto
+    &__cart
+        width: 26px
+        height: 24px
+        &_pink
+            margin-right: 15px
+
+
+.proposal-container
+    display: flex
+    flex-direction: column
+    align-items: center
+    &__text
+        margin-top: 119px
+    &__features
+        margin-top: 60px
+        height: 375px
+
+.text
+    color: #4d4d4d
+    font-weight: 800
+    line-height: 20px
+    text-transform: uppercase
+    font-size: 24px
+    &-underline
+        padding-bottom: 3px
+        width: 63px
+        background-color: $color_red
+        top: 100px
+
+.buy-options
+    display: flex
+    justify-content: space-between
+
+
+.buy-options
+    display: flex
+    justify-content: space-between
+    width: 538px
+    margin: 63px auto 0
+    &-input
+        width: 144px
+        height: 35px
+        border: 1px solid #eaeaea
+        background-color: $color_white
+        color: #bcbcbc
+        font-size: 13px
+        font-weight: 400
+        line-height: 24px
+        padding: 3px 5px 3px 5px
+    &__text
+        color: #2f2f2f
+        font-size: 14px
+        font-weight: 700
+        line-height: 24px
+        text-transform: uppercase
